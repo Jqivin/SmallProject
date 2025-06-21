@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DownloadImage", "DownloadImage\DownloadImage.vcxproj", "{4C280366-1DD9-4CAD-8444-F66B33D53F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C280366-1DD9-4CAD-8444-F66B33D53F77}.Debug|x64.ActiveCfg = Debug|x64
+		{4C280366-1DD9-4CAD-8444-F66B33D53F77}.Debug|x64.Build.0 = Debug|x64
+		{4C280366-1DD9-4CAD-8444-F66B33D53F77}.Release|x64.ActiveCfg = Release|x64
+		{4C280366-1DD9-4CAD-8444-F66B33D53F77}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C64B53-3E69-444E-80BF-B1F62817D3A9}
+	EndGlobalSection
+EndGlobal
